@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Ali El Ouankrimi
 
-### 🤖 Data Scientist | AI Engineer | ML Enthusiast
+### Data Scientist | AI Engineer | ML Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-www.alielouankrimi.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.alielouankrimi.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alielouankrimi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alielouankrimi)
